@@ -1,5 +1,13 @@
 # uchi.pro
 
+## For run backend
+
+```
+cd ../back
+
+npm start
+```
+
 ## Project setup
 ```
 npm install
